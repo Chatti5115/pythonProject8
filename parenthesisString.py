@@ -20,5 +20,5 @@ def solution(count):
 
 for _ in range(n):
     solution(list)
-
+print("통과")
 
